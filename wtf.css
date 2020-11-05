@@ -1,0 +1,54 @@
+#naodai{
+    font-size: 35px;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    background-color: rgb(26, 172, 135);
+    color: white;
+    line-height: 150%;
+}
+#bo{
+    margin:auto;
+    margin-top: 5%;
+    width: 1500px;
+    border:rgb(26, 172, 135) ;
+    background-color:  rgb(252, 252, 252);
+}
+.san{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size:25px;
+    font-weight:bold;
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    
+}
+ul{
+    padding-left: 0%;
+    font-weight:bold;
+    font-size:25px;
+    list-style: none;
+    flex-direction: column; 
+    justify-content: space-between;
+}
+#he{
+    display: flex;
+    font-size:25px;
+    justify-content: space-around;
+}
+#box1{
+    display: flex;
+    justify-content:space-around;
+}
+p{
+    font-size:15px;
+}
+#jj{ 
+    margin-left: 10%;
+    color:rgb(26, 172, 135);
+    margin-top: 100px;
+}
+body{
+    background-color:rgb(231, 231, 231);
+}
